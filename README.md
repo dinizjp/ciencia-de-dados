@@ -2,16 +2,16 @@
 
 Meus projetos de análise de dados e o material de estudo de 2023 a 2025, em Python, SQL e Streamlit.
 
-Este repositório junta 14 repositórios antigos, que ficaram arquivados. Os dashboards continuam no ar a partir deles.
+Este repositório junta 14 repositórios antigos. Os dashboards de Streamlit podem ser rodados localmente com `streamlit run` dentro da pasta de cada projeto.
 
 ## Projetos
 
-| Projeto | O que é | Ferramentas | Dashboard |
-|---|---|---|---|
-| [Fome Zero](projetos/fome-zero) | Análise dos restaurantes de um marketplace (base Zomato) para apoiar a estratégia da empresa. | Pandas, Plotly, Streamlit | [abrir](https://dinizjp-fome-zero-project.streamlit.app/) |
-| [Curry Company](projetos/curry-company) | Painel de estratégia para uma empresa de delivery: pedidos, entregadores e restaurantes. | Pandas, Plotly, Folium, Streamlit | [abrir](https://dinizjp-projects-curry-company.streamlit.app/) |
-| [Marketing no Instagram (SYS)](projetos/marketing-instagram-sys) | Dois anos de posts de uma marca no Instagram, dados do Meta Business Suite, em busca de padrões que melhorem o conteúdo. | Pandas, Plotly, Streamlit | [abrir](https://project-sys.streamlit.app/) |
-| [Ensaio de Machine Learning](projetos/ensaio-machine-learning) | Comparação de 16 algoritmos de classificação, regressão e clusterização. | scikit-learn | — |
+| Projeto | O que é | Ferramentas |
+|---|---|---|
+| [Fome Zero](projetos/fome-zero) | Análise dos restaurantes de um marketplace (base Zomato) para apoiar a estratégia da empresa. | Pandas, Plotly, Streamlit |
+| [Curry Company](projetos/curry-company) | Painel de estratégia para uma empresa de delivery: pedidos, entregadores e restaurantes. | Pandas, Plotly, Folium, Streamlit |
+| [Marketing no Instagram (SYS)](projetos/marketing-instagram-sys) | Dois anos de posts de uma marca no Instagram, dados do Meta Business Suite, em busca de padrões que melhorem o conteúdo. | Pandas, Plotly, Streamlit |
+| [Ensaio de Machine Learning](projetos/ensaio-machine-learning) | Comparação de 16 algoritmos de classificação, regressão e clusterização. | scikit-learn |
 
 ## Estudos
 
